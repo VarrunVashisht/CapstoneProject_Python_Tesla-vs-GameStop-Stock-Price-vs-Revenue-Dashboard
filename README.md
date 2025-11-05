@@ -16,9 +16,13 @@ This project helps demonstrate how real revenue performance compares to market-d
 By completing this project, you will:
 
 ✅ Extract stock price data using the yfinance API
+
 ✅ Perform web scraping to collect company revenue data
+
 ✅ Clean and prepare both datasets using pandas
+
 ✅ Build interactive visual dashboards using Plotly
+
 ✅ Compare Tesla and GameStop visually and interpret results
 
 ## 🧰 Tools & Libraries'
@@ -55,8 +59,11 @@ By completing this project, you will:
 ## 🌟 Insights
 
 This project shows how data analysis can uncover truths behind market movements.
+
 Tesla’s rise reflects strong fundamentals and profitability.
+
 GameStop’s spike reveals hype-driven speculation.
+
 As a data analyst, your dashboard helps investors separate signal from noise 📊.
 
 ## 👩‍💻 Author
